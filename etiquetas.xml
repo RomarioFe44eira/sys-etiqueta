@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<etiquetas>
+    <host name="HOST-C00012">
+        <ip>192.168.1.1</ip>
+        <mac>AA:BB:CC:DD:11:22</mac>
+        <pat>123456</pat>
+    </host>
+     <host name="HOST-C00013">
+        <ip>192.168.1.2</ip>
+        <mac>AD:DD:CA:DD:15:25</mac>
+        <pat>123987</pat>
+    </host>
+     <host name="HOST-C00014">
+        <ip>192.168.1.3</ip>
+        <mac>AD:AB:CA:DA:18:28</mac>
+        <pat>125456</pat>
+    </host>
+</etiquetas>
+
+

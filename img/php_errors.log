@@ -1,0 +1,12 @@
+[16-Jul-2018 09:20:44 UTC] PHP Parse error:  syntax error, unexpected ''location: index.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/img/etiquetas/index.php on line 4
+[16-Jul-2018 09:21:12 UTC] PHP Parse error:  syntax error, unexpected ''location: '' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/img/etiquetas/index.php on line 4
+[16-Jul-2018 09:21:26 UTC] PHP Parse error:  syntax error, unexpected ''location: '' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/img/etiquetas/index.php on line 6
+[16-Jul-2018 09:21:56 UTC] PHP Parse error:  syntax error, unexpected ''location: '' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/img/etiquetas/index.php on line 6
+[16-Jul-2018 09:22:15 UTC] PHP Parse error:  syntax error, unexpected ''location: '' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/img/etiquetas/index.php on line 6
+[16-Jul-2018 09:25:18 UTC] PHP Warning:  dir(arquivos/): failed to open dir: No such file or directory in /home/ubuntu/workspace/img/etiquetas/index.php on line 12
+[16-Jul-2018 09:25:18 UTC] PHP Stack trace:
+[16-Jul-2018 09:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/etiquetas/index.php:0
+[16-Jul-2018 09:25:18 UTC] PHP   2. dir() /home/ubuntu/workspace/img/etiquetas/index.php:12
+[16-Jul-2018 09:25:18 UTC] PHP Fatal error:  Call to a member function read() on a non-object in /home/ubuntu/workspace/img/etiquetas/index.php on line 15
+[16-Jul-2018 09:25:18 UTC] PHP Stack trace:
+[16-Jul-2018 09:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/etiquetas/index.php:0

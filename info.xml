@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<infos>
+    <modelos>
+        <modelo>DELL OPTIPLEX 360</modelo>
+        <modelo>DELL PRECISION</modelo>
+        <modelo>HP COMPAQ</modelo>
+        <modelo>ALL-IN ONE</modelo>
+        <modelo>MACBOOK AIR</modelo>
+        <modelo>DELL VOSTRO</modelo>
+        <modelo>EPSON X4000</modelo>
+        <modelo>EPSON X8000</modelo>
+        <modelo>RICH IMPRESS</modelo>
+    </modelos>
+    
+    <setores>
+        <setor>INFRA</setor>
+        <setor>DESENVOLVIMENTO</setor>
+        <setor>SUPORTE</setor>
+        <setor>EXPED</setor>
+        <setor>CARNE</setor>
+    </setores>
+</infos>
+
